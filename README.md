@@ -33,7 +33,7 @@ Here are the pros and cons of Cusdis:
 
 To use the plugin, replace `753c115a-e791-4f69-9443-da8ddf73b1bb` in the following code with your own domain ID obtained from your cusdis.com registration results code:
 
-#try to comment below:
+#code from cusdis example is shown below:
 
 
 
