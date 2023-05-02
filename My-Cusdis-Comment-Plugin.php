@@ -32,6 +32,7 @@ function my_custom_comment_form() {
 	$post_title = strip_tags( $post_title, '<b><u><i><h1><h2><h3><code><blockquote><br><hr>' );
 
 	// Your JavaScript code here, using the $post_id, $post_url, and $post_title variables
+	// 753c115a-e791-4f69-9443-da8ddf73b1bb is my domain id, change it according your cusdis.com registration results code.
 
 	print('
 		<div id="cusdis_thread"
