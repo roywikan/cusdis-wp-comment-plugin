@@ -27,3 +27,16 @@ Cons
 Cusdis is on early development stage
 You have to manually moderate comments which are not display by default until you approve it, since we dont't have a spam filter.
 Disqus is a company, we aren't.
+---------------------------------
+try to comment below:
+
+
+		<div id="cusdis_thread"
+		data-host="https://cusdis.com"
+		data-app-id="753c115a-e791-4f69-9443-da8ddf73b1bb"
+		data-page-id="123456789"
+		data-page-url="https://roywikan.github.io/cusdis-wp-comment-plugin/"
+		data-page-title="cusdis-wp-comment-plugin" >		
+		</div>
+		
+		<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
