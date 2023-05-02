@@ -48,3 +48,6 @@ To use the plugin, replace `753c115a-e791-4f69-9443-da8ddf73b1bb` in the followi
 		</div>
 		
 		<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+		
+		
+#comment form demo is in  [DEMO CUSDIS](https://roywikan.github.io/cusdis-wp-comment-plugin/test-cusdis.html)
