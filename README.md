@@ -6,7 +6,7 @@ After that,...
 
 To INSTALL:
 
-1. Download My-Cusdis-Comment-Plugin.php
+1. Download My-Cusdis-Comment-Plugin.php ---> https://raw.githubusercontent.com/roywikan/cusdis-wp-comment-plugin/main/My-Cusdis-Comment-Plugin.php 
 2. Put it on \wp-content\plugins\My-Cusdis-Comment-Plugin.php
 3. activate the plugin.
 4. done.
